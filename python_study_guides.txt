@@ -1,0 +1,15 @@
+STUDY GUIDE FOR PYTHON
+
+idea for project - Create a web crawler or scraper to get the late night shows monologues.(Stephen Colbert, Jimmy Kimmel, Jimmy Falon). 
+With Jon Stewart not doing the daily show anymore, this maybe the best way to get your funny sarcastic news on the reg and stay up to date.
+
+1) MIT computer science course
+2) python_for_kids :  book
+3) the new boston : youtube channel
+4) automate the boring stuff with python (youtube and pdf book)
+5) coursera - raspberry pi / python course
+
+	supplimental :
+
+		www.codecademy.com
+		Lrn : app on iphone and ipad
